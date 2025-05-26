@@ -1,5 +1,15 @@
 
+
 Este es un cambio a lo bestia
 Con varias lineas que no tienen nada que ver con lo que hay en
 el repositorio principal.
+
+Otra cosa mas
+Mas cosas
+
+Esta es una peladilla loca
+Esta es una modificación desde mi máquina local
+Esta es una segunda modificación desde Github
+
+Mas lineas
 
